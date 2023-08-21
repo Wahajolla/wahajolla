@@ -2,7 +2,7 @@
 
 I'm Egor, Frontend developer, currently living in Moscow, Russia. 
 
-<h3>Things I <s>create bug</s> code with</h3>
+<h3>Things I code with</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
