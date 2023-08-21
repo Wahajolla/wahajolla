@@ -2,7 +2,7 @@
 
 I'm Egor, Frontend developer, currently living in Moscow, Russia. 
 
-<h3>Things I <s>create bug</s> code with</h3>
+<h3>Things I code with</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -21,43 +21,6 @@ I'm Egor, Frontend developer, currently living in Moscow, Russia.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Latest projects</h3>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Project</b></td>
-      <td><b>⭐ About</b></td>
-      <td><b>🙃 Status</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Wahajolla/pakue-client"><b>Pakue</b></a></td>
-      <td>CMS powered by React, Antd and TypeScript  
-      <ul>
-      <li>CMS for energy-management in mining industry</li>
-      <li>Redux state management</li>
-      <li>Complex data-report creating</li>
-      </ul>
-      </td>
-       <td>💪 Maintenance  💪</td>
-    </tr>
-        <tr>
-      <td><a href="https://github.com/Wahajolla/otl-client"><b>Otlivchikru</b></a></td>
-      <td> E-commerce powered by NextJS,  <a href="https://feature-sliced.design">FSD (Feature-Sliced Design)</a>, <a href="https://www.flowbite-react.com">Flowbite React</a> and TypeScript
-      <ul>
-      <li>Real world ECommerce for construction materials</li>
-      <li>Architecture from scratch basing on FSD</li>
-      <li>Storybook and Jest</li>
-      <li>API emulation with mswjs</li>
-      </ul>
-      </td>
-      <td>🚧 Dev in progress 🚧</td>
-    </tr>
-
-
-
   </tbody>
 </table>
 
@@ -66,5 +29,4 @@ I'm Egor, Frontend developer, currently living in Moscow, Russia.
 <p>
 <a href="https://github.com/wahajolla" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://t.me/wahajolla" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://discord.com/users/wahajolla" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
  </p>
