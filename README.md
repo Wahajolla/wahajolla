@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-I'm Egor, Frontend developer, currently living in Moscow, Russia. 
+I'm Egor, Frontend developer. 
 
 <h3>Things I code with</h3>
 
